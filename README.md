@@ -1,2 +1,4 @@
 # student-grade-calculator-java
-input marks calculate average and grade
+input marks. calculate average and grade.
+<b>
+print output
